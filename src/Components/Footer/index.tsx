@@ -6,10 +6,7 @@ import Email from "react-ionicons/lib/MdMail";
 import Phone from "react-ionicons/lib/IosPhonePortrait";
 //@ts-ignore
 import Map from "react-ionicons/lib/IosMap";
-//@ts-ignore
-import Facebook from "react-ionicons/lib/LogoFacebook";
-//@ts-ignore
-import Instagram from "react-ionicons/lib/LogoInstagram";
+
 export const Footer = () => {
   return (
     <div className="Footer">
