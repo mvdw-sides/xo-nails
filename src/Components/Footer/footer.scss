@@ -1,0 +1,72 @@
+.Footer {
+    margin-top: 2rem;
+    background-color: #2a2838;
+
+    min-height: 200px;
+    width: 100%;
+    display: flex;
+
+    
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+
+
+
+    div {
+        height: 150px;
+        min-width: 250px;
+        color: white;
+
+        a {
+            color: white;
+            border-bottom: 1px dotted white;
+        }
+
+        &:last-child {
+            padding-right: 5rem;
+        }
+
+        h5{
+            padding-bottom: .1rem;
+            margin-bottom: .1rem;
+        }
+        
+
+        ul {
+            padding: 0 0.1rem;
+            
+
+            li {
+                list-style: none;
+                padding: 0.1rem 0;
+
+                a {
+                    text-decoration: none;
+                    border: none;
+                    &:hover {
+                        border-bottom: 1px dashed white;
+                    }
+                }
+                color:white;
+                svg {
+                    margin-top: 4px;
+                    margin-right: 5px;
+                    margin-bottom: -7px;
+
+                }
+            }
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        justify-content: center;
+        div {
+            text-align: center;
+            width: 100%;
+            padding: 0.1rem 0;
+            margin: 0.1rem 0;
+        }
+    }
+}
