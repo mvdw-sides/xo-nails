@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/xo-nails/static/css/main.b863397e.chunk.css",
-    "main.js": "/xo-nails/static/js/main.dd189528.chunk.js",
-    "main.js.map": "/xo-nails/static/js/main.dd189528.chunk.js.map",
-    "runtime-main.js": "/xo-nails/static/js/runtime-main.2373edbb.js",
-    "runtime-main.js.map": "/xo-nails/static/js/runtime-main.2373edbb.js.map",
-    "static/js/2.223e2ac7.chunk.js": "/xo-nails/static/js/2.223e2ac7.chunk.js",
-    "static/js/2.223e2ac7.chunk.js.map": "/xo-nails/static/js/2.223e2ac7.chunk.js.map",
-    "index.html": "/xo-nails/index.html",
-    "precache-manifest.4fff921e3cd9fdaf8f3c1d41a32f5442.js": "/xo-nails/precache-manifest.4fff921e3cd9fdaf8f3c1d41a32f5442.js",
-    "service-worker.js": "/xo-nails/service-worker.js",
-    "static/css/main.b863397e.chunk.css.map": "/xo-nails/static/css/main.b863397e.chunk.css.map",
-    "static/js/2.223e2ac7.chunk.js.LICENSE.txt": "/xo-nails/static/js/2.223e2ac7.chunk.js.LICENSE.txt",
-    "static/media/beauty-treatment.svg": "/xo-nails/static/media/beauty-treatment.75175d6b.svg",
-    "static/media/makeup-1.svg": "/xo-nails/static/media/makeup-1.6978d190.svg",
-    "static/media/manicure.svg": "/xo-nails/static/media/manicure.65243689.svg",
-    "static/media/p1.png": "/xo-nails/static/media/p1.1e2d7891.png",
-    "static/media/p3.png": "/xo-nails/static/media/p3.a1ead3e2.png",
-    "static/media/p4.png": "/xo-nails/static/media/p4.e81ac6eb.png",
-    "static/media/p5.png": "/xo-nails/static/media/p5.57ad7f01.png",
-    "static/media/p6.png": "/xo-nails/static/media/p6.daccfd79.png"
+    "main.css": "/static/css/main.b863397e.chunk.css",
+    "main.js": "/static/js/main.4442d874.chunk.js",
+    "main.js.map": "/static/js/main.4442d874.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.411e2b15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.411e2b15.js.map",
+    "static/js/2.4c00ea63.chunk.js": "/static/js/2.4c00ea63.chunk.js",
+    "static/js/2.4c00ea63.chunk.js.map": "/static/js/2.4c00ea63.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b72ea6ae032e9ea80a6d25e3bdeb35df.js": "/precache-manifest.b72ea6ae032e9ea80a6d25e3bdeb35df.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b863397e.chunk.css.map": "/static/css/main.b863397e.chunk.css.map",
+    "static/js/2.4c00ea63.chunk.js.LICENSE.txt": "/static/js/2.4c00ea63.chunk.js.LICENSE.txt",
+    "static/media/beauty-treatment.svg": "/static/media/beauty-treatment.75175d6b.svg",
+    "static/media/makeup-1.svg": "/static/media/makeup-1.6978d190.svg",
+    "static/media/manicure.svg": "/static/media/manicure.65243689.svg",
+    "static/media/p1.png": "/static/media/p1.1e2d7891.png",
+    "static/media/p3.png": "/static/media/p3.a1ead3e2.png",
+    "static/media/p4.png": "/static/media/p4.e81ac6eb.png",
+    "static/media/p5.png": "/static/media/p5.57ad7f01.png",
+    "static/media/p6.png": "/static/media/p6.daccfd79.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2373edbb.js",
-    "static/js/2.223e2ac7.chunk.js",
+    "static/js/runtime-main.411e2b15.js",
+    "static/js/2.4c00ea63.chunk.js",
     "static/css/main.b863397e.chunk.css",
-    "static/js/main.dd189528.chunk.js"
+    "static/js/main.4442d874.chunk.js"
   ]
 }
