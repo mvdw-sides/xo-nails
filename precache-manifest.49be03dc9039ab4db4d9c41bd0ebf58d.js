@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8299c97c9e1d44a710baf8e37d882546",
+    "revision": "7d722d5e7ea50d045e76878cd206e4e0",
     "url": "/index.html"
   },
   {
-    "revision": "6984a90e12fb51567c7e",
+    "revision": "8c21ae1dade7e53fcbbd",
     "url": "/static/css/main.b863397e.chunk.css"
   },
   {
@@ -16,24 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4c00ea63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6984a90e12fb51567c7e",
-    "url": "/static/js/main.26a1b23f.chunk.js"
+    "revision": "8c21ae1dade7e53fcbbd",
+    "url": "/static/js/main.966b9c86.chunk.js"
   },
   {
     "revision": "23fae5bdbcbdb5b72cac",
     "url": "/static/js/runtime-main.411e2b15.js"
   },
   {
-    "revision": "b9e7859aacb25b0c4801cad32fac5dde",
-    "url": "/static/media/beauty-treatment.b9e7859a.svg"
+    "revision": "459e714356c1d4874193c3f1172beca4",
+    "url": "/static/media/Makeup-1.459e7143.png"
   },
   {
-    "revision": "6978d190e13f419fc74a9e720e2580b0",
-    "url": "/static/media/makeup-1.6978d190.svg"
+    "revision": "ea0a6fdbadd93ce4a022740194dc4c65",
+    "url": "/static/media/beauty-treatment.ea0a6fdb.png"
   },
   {
-    "revision": "65243689350467805a26f185ad259135",
-    "url": "/static/media/manicure.65243689.svg"
+    "revision": "cff29d4d3c26931daf8ef771b0440ddf",
+    "url": "/static/media/manicure.cff29d4d.png"
   },
   {
     "revision": "1e2d78910a599f8b651a8e7af79a7bd0",
