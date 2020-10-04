@@ -97,7 +97,7 @@ export const Home = () => {
               />
             }
             title="Nagel stijlen"
-            content="Voor dé look"
+            content="Voor dé look."
           />
           <Block
             image={
@@ -129,7 +129,7 @@ export const Home = () => {
               />
             }
             title="Gel coat"
-            content="Voor sterke en strakke nagels"
+            content="Voor sterke en strakke nagels."
           />
         </Blocks>
       </div>
