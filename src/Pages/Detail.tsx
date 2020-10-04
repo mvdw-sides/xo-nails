@@ -43,8 +43,8 @@ export const Detail = () => {
               }}
             />
           }
-          title="skincare"
-          content="test"
+          title="Nagel stijlen"
+          content="Voor dé look"
         />
         <Block
           image={
@@ -59,8 +59,8 @@ export const Detail = () => {
               }}
             />
           }
-          title="skincare"
-          content="test"
+          title="Nagel verzorging"
+          content="Genieten!"
         />
         <Block
           image={
@@ -75,8 +75,8 @@ export const Detail = () => {
               }}
             />
           }
-          title="skincare"
-          content="test"
+          title="Gel coat"
+          content="Voor sterke en strakkenagels"
         />
         <Block
           image={
@@ -91,15 +91,15 @@ export const Detail = () => {
               }}
             />
           }
-          title="skincare"
-          content="test"
+          title="Testjeenss"
+          content="TESTIE"
         />
       </Blocks>
       <div>
         <Blocks style={{ zIndex: 1 }}>
           <Block
             image=""
-            title="skincare"
+            title="Gel coat"
             content="Liquorice topping marzipan pastry jujubes. Lollipop cupcake cake.
         Topping soufflé caramels macaroon cake. Lemon drops tootsie roll toffee
         biscuit icing chupa chups croissant topping. Jelly beans cotton candy
