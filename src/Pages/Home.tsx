@@ -2,9 +2,9 @@ import React from "react";
 import { Slider } from "../Components/Slider";
 import { Blocks, Block } from "../Components/Blocks";
 
-import beaty from "../Assets/beauty-treatment.svg";
-import manicure from "../Assets/manicure.svg";
-import makeup from "../Assets/makeup-1.svg";
+import beaty from "../Assets/beauty-treatment.png";
+import manicure from "../Assets/Manicure.png";
+import makeup from "../Assets/Makeup-1.png";
 
 //@ts-ignore
 import Email from "react-ionicons/lib/MdMail";
