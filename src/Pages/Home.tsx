@@ -35,7 +35,7 @@ export const Home = () => {
             image={
               <img src={beaty} alt="" title="" style={{ maxHeight: "120px" }} />
             }
-            title="Sugar plum toffee"
+            title="STop producten"
             content="Bonbon toffee lollipop chocolate cake cake caramels. Liquorice chocolate bar ice cream lemon drops cotton candy chupa chups danish carrot cake."
           />
           <Block
@@ -48,7 +48,7 @@ export const Home = () => {
                 style={{ maxHeight: "120px" }}
               />
             }
-            title="toffee marshmallow"
+            title="Kwaliteit"
             content="Bonbon toffee lollipop chocolate cake cake caramels. Liquorice chocolate bar ice cream lemon drops cotton candy chupa chups danish carrot cake."
           />
           <Block
@@ -61,7 +61,7 @@ export const Home = () => {
                 style={{ maxHeight: "120px" }}
               />
             }
-            title="Sugar marshmallow"
+            title="Aandacht"
             content="Bonbon toffee lollipop chocolate cake cake caramels. Liquorice chocolate bar ice cream lemon drops cotton candy chupa chups danish carrot cake."
           />
         </Blocks>
