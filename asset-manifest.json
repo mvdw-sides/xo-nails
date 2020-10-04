@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.b863397e.chunk.css",
-    "main.js": "/static/js/main.2898f9df.chunk.js",
-    "main.js.map": "/static/js/main.2898f9df.chunk.js.map",
+    "main.js": "/static/js/main.26a1b23f.chunk.js",
+    "main.js.map": "/static/js/main.26a1b23f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.411e2b15.js",
     "runtime-main.js.map": "/static/js/runtime-main.411e2b15.js.map",
     "static/js/2.4c00ea63.chunk.js": "/static/js/2.4c00ea63.chunk.js",
     "static/js/2.4c00ea63.chunk.js.map": "/static/js/2.4c00ea63.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.42eb2522e7bbede00b4e44ac90f13094.js": "/precache-manifest.42eb2522e7bbede00b4e44ac90f13094.js",
+    "precache-manifest.466c93a43ab7dd65188d1444e1115a8d.js": "/precache-manifest.466c93a43ab7dd65188d1444e1115a8d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b863397e.chunk.css.map": "/static/css/main.b863397e.chunk.css.map",
     "static/js/2.4c00ea63.chunk.js.LICENSE.txt": "/static/js/2.4c00ea63.chunk.js.LICENSE.txt",
-    "static/media/beauty-treatment.svg": "/static/media/beauty-treatment.75175d6b.svg",
+    "static/media/beauty-treatment.svg": "/static/media/beauty-treatment.b9e7859a.svg",
     "static/media/makeup-1.svg": "/static/media/makeup-1.6978d190.svg",
     "static/media/manicure.svg": "/static/media/manicure.65243689.svg",
     "static/media/p1.png": "/static/media/p1.1e2d7891.png",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.411e2b15.js",
     "static/js/2.4c00ea63.chunk.js",
     "static/css/main.b863397e.chunk.css",
-    "static/js/main.2898f9df.chunk.js"
+    "static/js/main.26a1b23f.chunk.js"
   ]
 }

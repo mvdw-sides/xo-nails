@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c55415c3c82c883c05c5e3c4c02f892",
+    "revision": "8299c97c9e1d44a710baf8e37d882546",
     "url": "/index.html"
   },
   {
-    "revision": "533b5341b7021eaf0c08",
+    "revision": "6984a90e12fb51567c7e",
     "url": "/static/css/main.b863397e.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4c00ea63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "533b5341b7021eaf0c08",
-    "url": "/static/js/main.2898f9df.chunk.js"
+    "revision": "6984a90e12fb51567c7e",
+    "url": "/static/js/main.26a1b23f.chunk.js"
   },
   {
     "revision": "23fae5bdbcbdb5b72cac",
     "url": "/static/js/runtime-main.411e2b15.js"
   },
   {
-    "revision": "75175d6bf1d7e3a8c6d16aa3b73240f1",
-    "url": "/static/media/beauty-treatment.75175d6b.svg"
+    "revision": "b9e7859aacb25b0c4801cad32fac5dde",
+    "url": "/static/media/beauty-treatment.b9e7859a.svg"
   },
   {
     "revision": "6978d190e13f419fc74a9e720e2580b0",
