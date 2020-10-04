@@ -77,6 +77,7 @@ export const Detail = () => {
           }
           title="Gel coat"
           content="Voor sterke en strakke nagels."
+          />
       </Blocks>
       <div>
         <Blocks style={{ zIndex: 1 }}>
