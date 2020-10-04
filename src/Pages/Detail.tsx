@@ -44,7 +44,7 @@ export const Detail = () => {
             />
           }
           title="Nagel stijlen"
-          content="Voor dé look"
+          content="Voor dé look."
         />
         <Block
           image={
@@ -76,7 +76,7 @@ export const Detail = () => {
             />
           }
           title="Gel coat"
-          content="Voor sterke en strakkenagels"
+          content="Voor sterke en strakke nagels."
       </Blocks>
       <div>
         <Blocks style={{ zIndex: 1 }}>
