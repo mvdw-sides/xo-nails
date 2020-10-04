@@ -3,7 +3,7 @@ import { Slider } from "../Components/Slider";
 import { Blocks, Block } from "../Components/Blocks";
 
 import beaty from "../Assets/beauty-treatment.png";
-import manicure from "../Assets/Manicure.png";
+import manicure from "../Assets/manicure.png";
 import makeup from "../Assets/Makeup-1.png";
 
 //@ts-ignore
@@ -155,7 +155,7 @@ export const Home = () => {
           <p>
             Heb je specifieke vragen of wensen?  Let us know!
           </p>
-          <h4>Contact information</h4>
+          <h4>Contact informatie</h4>
           <ul>
             <li>
               <Email />
@@ -185,15 +185,15 @@ export const Home = () => {
               <input type="email" />
             </div>
             <div style={{ width: "45%" }}>
-              <label>Name</label>
+              <label>Naam</label>
               <input type="text" />
             </div>
             <div style={{ width: "100%" }}>
-              <label>Message</label>
+              <label>Bericht</label>
               <textarea></textarea>
             </div>
             <div style={{ width: "100%" }}>
-              <button>Submit</button>
+              <button>Versturen</button>
             </div>
           </form>
         </div>
