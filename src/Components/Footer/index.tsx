@@ -14,36 +14,30 @@ export const Footer = () => {
         <figure className="Logo">XONails</figure>
       </div>
       <div>
-        <h5>Services</h5>
+        <h5>Diensten</h5>
         <ul>
           <li>
-            <a href="#services">Skincare</a>
+            <a href="Nagel stijlen">Skincare</a>
           </li>
           <li>
-            <a href="#services">Skincare</a>
+            <a href="Nagel verzorging">Skincare</a>
           </li>
           <li>
-            <a href="#services">Skincare</a>
-          </li>
-          <li>
-            <a href="#services">Skincare</a>
+            <a href="Gel coat">Skincare</a>
           </li>
         </ul>
       </div>
       <div>
-        <h5>Social</h5>
+        <h5>Socials</h5>
         <ul>
           <li>
-            <a href="#services">Skincare</a>
+            <a href="Instagram">Skincare</a>
           </li>
           <li>
-            <a href="#services">Skincare</a>
+            <a href="Facebook">Skincare</a>
           </li>
           <li>
-            <a href="#services">Skincare</a>
-          </li>
-          <li>
-            <a href="#services">Skincare</a>
+            <a href="TikTok">Skincare</a>
           </li>
         </ul>
       </div>
@@ -52,15 +46,15 @@ export const Footer = () => {
         <ul>
           <li>
             <Email color="white" />
-            sample@localhost.com
+            hanne.kleinjan@hotmail.com
           </li>
           <li>
             <Phone color="white" />
-            +31 pel de pinda
+            +31 6 - 25 38 64 81
           </li>
           <li>
             <Map color="white" />
-            Een straat 432, 3472AD,dorp
+            Voorstraat 12, Den Ham (OV)
           </li>
         </ul>
       </div>
