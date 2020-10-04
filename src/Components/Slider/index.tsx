@@ -12,13 +12,12 @@ const Slide = ({ image }: { image: string }) => {
       }}
     >
       <div className="Content">
-        <h2>Chocolate bar donut</h2>
+        <h2>XO Nails</h2>
         <p>
-          Bonbon toffee lollipop chocolate cake cake caramels. Liquorice
-          chocolate bar ice cream lemon drops cotton candy chupa chups danish
-          carrot cake.
+          Zin in een uurtje relaxen of toe aan frisse sterke nagels?
+          Bij ons kun jij terecht voor jouw nagelverzorging en advies.
         </p>
-        <button> press me </button>
+        <button> Druk hier </button>
       </div>
     </div>
   );
@@ -36,13 +35,13 @@ export const Slider = () => {
         <div>
           <ul>
             <li>
-              <Link to="/detail">About us</Link>
+              <Link to="/detail">Over ons</Link>
             </li>
             <li>
-            <a href="/#services">onze services</a>
+            <a href="/#services">Onze expertise</a>
             </li>
             <li>
-              <a href="/#contact">contact us</a>
+              <a href="/#contact">Contact</a>
             </li>
           </ul>
         </div>
