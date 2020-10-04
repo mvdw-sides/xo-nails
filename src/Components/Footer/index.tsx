@@ -17,13 +17,13 @@ export const Footer = () => {
         <h5>Diensten</h5>
         <ul>
           <li>
-            <a href="Nagel stijlen">Skincare</a>
+            <a href="#services">Nagel stijlen</a>
           </li>
           <li>
-            <a href="Nagel verzorging">Skincare</a>
+            <a href="#services">Nagel verzorging</a>
           </li>
           <li>
-            <a href="Gel coat">Skincare</a>
+            <a href="#services">Gel coat</a>
           </li>
         </ul>
       </div>
@@ -31,13 +31,13 @@ export const Footer = () => {
         <h5>Socials</h5>
         <ul>
           <li>
-            <a href="Instagram">Skincare</a>
+            <a href="#services">Instagram</a>
           </li>
           <li>
-            <a href="Facebook">Skincare</a>
+            <a href="#services">Facebook</a>
           </li>
           <li>
-            <a href="TikTok">Skincare</a>
+            <a href="#services">TikTok</a>
           </li>
         </ul>
       </div>
