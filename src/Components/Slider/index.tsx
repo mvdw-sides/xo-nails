@@ -2,6 +2,8 @@ import React from "react";
 import "./slider.scss";
 import { Link } from "react-router-dom";
 
+import MainPage from "../Assets/Main Shot Web Page 1.png";
+
 const Slide = ({ image }: { image: string }) => {
   return (
     <div
@@ -46,7 +48,7 @@ export const Slider = () => {
           </ul>
         </div>
       </div>
-      <Slide image="https://images.unsplash.com/photo-1513387785954-4e2600cd1f0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80"></Slide>
+      <Slide image="MainPage"></Slide>
     </div>
   );
 };
