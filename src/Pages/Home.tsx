@@ -131,22 +131,6 @@ export const Home = () => {
             title="Gel coat"
             content="Voor sterke en strakke nagels"
           />
-          <Block
-            image={
-              <div
-                style={{
-                  height: "375px",
-                  width: "220px",
-                  backgroundPosition: "center",
-                  backgroundSize: "cover",
-                  backgroundImage:
-                    "url(https://images.unsplash.com/photo-1548112129-b5cf67e9558d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=250&q=60)",
-                }}
-              />
-            }
-            title="skincare"
-            content="test"
-          />
         </Blocks>
       </div>
       <div className="Contact" id="contact" style={{ zIndex: 1 }}>
