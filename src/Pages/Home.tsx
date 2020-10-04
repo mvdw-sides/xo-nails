@@ -71,8 +71,8 @@ export const Home = () => {
         style={{ background: "#f7f2f7", position: "relative", width: "100%" }}
       >
         <div className="SectionHeading" style={{ zIndex: 1 }}>
-          <h2>Onze services</h2>
-          <p>Gingerbread dessert pastry cake jujubes croissant.</p>
+          <h2>Onze expertise</h2>
+          <p>Kom je voor een nieuwe lak of tijd voor jezelf? Bij ons kun je terecht.</p>
         </div>
         <div className="Backdrop">
           <img src={p1} alt="" title="" />
@@ -96,8 +96,8 @@ export const Home = () => {
                 }}
               />
             }
-            title="skincare"
-            content="test"
+            title="Nagel stijlen"
+            content="Voor dé look"
           />
           <Block
             image={
@@ -112,8 +112,8 @@ export const Home = () => {
                 }}
               />
             }
-            title="skincare"
-            content="test"
+            title="Nagel verzorging"
+            content="Genieten!"
           />
           <Block
             image={
@@ -128,8 +128,8 @@ export const Home = () => {
                 }}
               />
             }
-            title="skincare"
-            content="test"
+            title="Gel coat"
+            content="Voor sterke en strakke nagels"
           />
           <Block
             image={
@@ -151,29 +151,27 @@ export const Home = () => {
       </div>
       <div className="Contact" id="contact" style={{ zIndex: 1 }}>
         <div className="Info">
-          <h4>Contact us</h4>
+          <h4>Stuur een berichtje</h4>
           <p>
-            Bonbon toffee lollipop chocolate cake cake caramels. Liquorice
-            chocolate bar ice cream lemon drops cotton candy chupa chups danish
-            carrot cake.
+            Heb je specifieke vragen of wensen?  Let us know!
           </p>
           <h4>Contact information</h4>
           <ul>
             <li>
               <Email />
-              sample@localhost.com
+              hanne.kleinjan@hotmail.com
             </li>
             <li>
               <Phone />
-              +31 pel de pinda
+              +316 - 25 38 64 81
             </li>
             <li>
               <Map />
-              Een straat 432, 3472AD,dorp
+              Voorstraat 12, Den Ham (OV)
             </li>
           </ul>
 
-          <h4>Social Media</h4>
+          <h4>Socials</h4>
           <Facebook />
           <Instagram />
         </div>
