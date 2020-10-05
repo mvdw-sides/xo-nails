@@ -48,7 +48,7 @@ export const Slider = () => {
           </ul>
         </div>
       </div>
-      <Slide image="../Assets/Main Shot Web Page 1.png"></Slide>
+      <Slide image="https://drive.google.com/file/d/1mtX7_656ZqUmqTG3TdfH0eD2kwjOKTA_/view?usp=sharing"></Slide>
     </div>
   );
 };
