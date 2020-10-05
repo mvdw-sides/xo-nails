@@ -33,7 +33,7 @@ export const Home = () => {
           <Block
             style={{ width: "250px" }}
             image={
-              <img src={beaty} alt="" title="" style={{ maxHeight: "120px" }} />
+              <img src={beaty} alt="" title="" style={{ maxHeight: "200px" }} />
             }
             title="Top producten"
             content="Wij gebruiken alleen het beste voor jouw handen."
@@ -45,7 +45,7 @@ export const Home = () => {
                 src={manicure}
                 alt=""
                 title=""
-                style={{ maxHeight: "120px" }}
+                style={{ maxHeight: "200px" }}
               />
             }
             title="Kwaliteit"
@@ -58,7 +58,7 @@ export const Home = () => {
                 src={makeup}
                 alt=""
                 title=""
-                style={{ maxHeight: "120px" }}
+                style={{ maxHeight: "200px" }}
               />
             }
             title="Aandacht"
