@@ -2,8 +2,6 @@ import React from "react";
 import "./slider.scss";
 import { Link } from "react-router-dom";
 
-import MainPage from "../Assets/Main Shot Web Page 1.png";
-
 const Slide = ({ image }: { image: string }) => {
   return (
     <div
