@@ -24,7 +24,7 @@
     color: white;
     font-family: 'Yrsa', serif;
     font-size: 2em;
-    border-left: 2px dashed pink;
+    border-left: 2px dashed white;
     padding: .4em;
 }
 
@@ -181,7 +181,7 @@
             }
 
             button {
-                border: 1px solid purple;
+                border: 1px solid white;
                 padding: .6rem 1.2rem;
                 background: none;
                 width: 5rem;
@@ -189,7 +189,7 @@
                 align-self: flex-end;
 
                 &:hover {
-                    background: purple;
+                    background: white;
                     color: white;
                     cursor: pointer;
                 }
