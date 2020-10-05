@@ -183,6 +183,7 @@ export const Home = () => {
             <input type="text" name="honeypot" style={{display:"none"}} />
             <input type="hidden" name="subject" value="Contact us from - xonails.nl" />
             <input type="hidden" name="accessKey" value="6370f499-beb6-48b6-ba2d-63a859e42a0e" />
+            <input type="hidden" name="redirectTo" value="https://xonails.nl/#contact?sent=true" />
           </form>
         </div>
       </div>
