@@ -92,7 +92,7 @@ export const Home = () => {
                   backgroundPosition: "center",
                   backgroundSize: "cover",
                   backgroundImage:
-                    "url(https://imgur.com/YmnSuKE)",
+                    "url(https://i.imgur.com/YmnSuKE.jpg)",
                 }}
               />
             }
@@ -108,7 +108,7 @@ export const Home = () => {
                   backgroundPosition: "center",
                   backgroundSize: "cover",
                   backgroundImage:
-                    "url(https://imgur.com/DmO6piw)",
+                    "url(https://i.imgur.com/DmO6piw.jpg)",
                 }}
               />
             }
@@ -124,7 +124,7 @@ export const Home = () => {
                   backgroundPosition: "center",
                   backgroundSize: "cover",
                   backgroundImage:
-                    "url(https://imgur.com/RjwhqAo)",
+                    "url(https://i.imgur.com/RjwhqAo.jpg)",
                 }}
               />
             }
