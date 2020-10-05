@@ -46,7 +46,7 @@ export const Slider = () => {
           </ul>
         </div>
       </div>
-      <Slide image="https://imgur.com/fdDIWgi"></Slide>
+      <Slide image="https://i.imgur.com/fdDIWgi.jpg"></Slide>
     </div>
   );
 };
