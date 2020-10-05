@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c5895ed.chunk.css",
+    "main.css": "/static/css/main.853d9093.chunk.css",
     "main.js": "/static/js/main.cb8f4e87.chunk.js",
     "main.js.map": "/static/js/main.cb8f4e87.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.411e2b15.js",
@@ -8,9 +8,9 @@
     "static/js/2.4c00ea63.chunk.js": "/static/js/2.4c00ea63.chunk.js",
     "static/js/2.4c00ea63.chunk.js.map": "/static/js/2.4c00ea63.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7961a0560cc532abc2e5fb733dc6374b.js": "/precache-manifest.7961a0560cc532abc2e5fb733dc6374b.js",
+    "precache-manifest.113934f3837d2533f5def1dbbb2e895f.js": "/precache-manifest.113934f3837d2533f5def1dbbb2e895f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0c5895ed.chunk.css.map": "/static/css/main.0c5895ed.chunk.css.map",
+    "static/css/main.853d9093.chunk.css.map": "/static/css/main.853d9093.chunk.css.map",
     "static/js/2.4c00ea63.chunk.js.LICENSE.txt": "/static/js/2.4c00ea63.chunk.js.LICENSE.txt",
     "static/media/Makeup-1.png": "/static/media/Makeup-1.459e7143.png",
     "static/media/beauty-treatment.png": "/static/media/beauty-treatment.ea0a6fdb.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.411e2b15.js",
     "static/js/2.4c00ea63.chunk.js",
-    "static/css/main.0c5895ed.chunk.css",
+    "static/css/main.853d9093.chunk.css",
     "static/js/main.cb8f4e87.chunk.js"
   ]
 }
