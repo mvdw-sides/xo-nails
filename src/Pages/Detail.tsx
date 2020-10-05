@@ -39,7 +39,7 @@ export const Detail = () => {
                 backgroundPosition: "center",
                 backgroundSize: "cover",
                 backgroundImage:
-                  "url(https://images.unsplash.com/photo-1561158317-757a4631770e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=250&q=80)",
+                  "url(https://imgur.com/YmnSuKE)",
               }}
             />
           }
@@ -55,7 +55,7 @@ export const Detail = () => {
                 backgroundPosition: "center",
                 backgroundSize: "cover",
                 backgroundImage:
-                  "url(https://images.unsplash.com/photo-1498843707350-22f05fb6c933?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=250&q=80)",
+                  "url(https://imgur.com/DmO6piw)",
               }}
             />
           }
@@ -71,7 +71,7 @@ export const Detail = () => {
                 backgroundPosition: "center",
                 backgroundSize: "cover",
                 backgroundImage:
-                  "url(https://images.unsplash.com/photo-1561041131-e4b3e063b969?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=250&q=60)",
+                  "url(https://imgur.com/RjwhqAo)",
               }}
             />
           }
@@ -115,7 +115,7 @@ export const Detail = () => {
                   backgroundPosition: "center",
                   backgroundSize: "cover",
                   backgroundImage:
-                    "url(https://images.unsplash.com/photo-1548112129-b5cf67e9558d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=550&q=60)",
+                    "url(https://imgur.com/fdDIWgi)",
                 }}
               />
             }
