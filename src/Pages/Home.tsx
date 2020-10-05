@@ -166,11 +166,11 @@ export const Home = () => {
     <form action="https://api.staticforms.xyz/submit" method="post">
             <div style={{ width: "45%" }}>
               <label>Email</label>
-              <input type="text" name="email">
+              <input type="text" name="email" />
             </div>
             <div style={{ width: "45%" }}>
               <label>Naam</label>
-              <input type="text" name="name">
+              <input type="text" name="name" />
             </div>
             <div style={{ width: "100%" }}>
               <label>Bericht</label>
@@ -179,8 +179,8 @@ export const Home = () => {
             <div style={{ width: "100%" }}>
               <button type="submit">Versturen</button>
             </div>
-            <input type="hidden" name="replyTo" value="@">
-            <input type="text" name="honeypot" style="display:none">
+            <input type="hidden" name="replyTo" value="@" />
+            <input type="text" name="honeypot" style="display:none" />
             <input type="hidden" name="subject" value="Contact us from - xonails.nl" />
           </form>
         </div>
