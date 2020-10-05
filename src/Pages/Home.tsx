@@ -180,7 +180,7 @@ export const Home = () => {
               <button type="submit">Versturen</button>
             </div>
             <input type="hidden" name="replyTo" value="@" />
-            <input type="text" name="honeypot" style="display:none" />
+            <input type="text" name="honeypot" style={{display:"none"}} />
             <input type="hidden" name="subject" value="Contact us from - xonails.nl" />
           </form>
         </div>
