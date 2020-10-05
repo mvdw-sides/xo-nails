@@ -177,7 +177,7 @@ export const Home = () => {
               <textarea name="message"></textarea>
             </div>
             <div style={{ width: "100%" }}>
-              <button>Versturen</button>
+              <button type="submit">Versturen</button>
             </div>
             <input type="hidden" name="replyTo" value="@">
             <input type="text" name="honeypot" style="display:none">
