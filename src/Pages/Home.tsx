@@ -143,7 +143,7 @@ export const Home = () => {
           <ul>
             <li>
               <Email />
-              hanne.kleinjan@hotmail.com
+              hanne.kleinjan@hotmail.nl
             </li>
             <li>
               <Phone />
