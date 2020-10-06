@@ -46,7 +46,7 @@ export const Footer = () => {
         <ul>
           <li>
             <Email color="white" />
-            hanne.kleinjan@hotmail.com
+            hanne.kleinjan@hotmail.nl
           </li>
           <li>
             <Phone color="white" />
