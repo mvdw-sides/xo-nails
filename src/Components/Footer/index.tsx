@@ -46,15 +46,15 @@ export const Footer = () => {
         <ul>
           <li>
             <Email color="white" />
-            hanne.kleinjan@hotmail.nl
+            hannekleinjan@hotmail.com
           </li>
           <li>
             <Phone color="white" />
-            +31 6 - 25 38 64 81
+            +31 6 - 12 34 56 78
           </li>
           <li>
             <Map color="white" />
-            Voorstraat 12, Den Ham (OV)
+            Overijssel
           </li>
         </ul>
       </div>
