@@ -143,15 +143,15 @@ export const Home = () => {
           <ul>
             <li>
               <Email />
-              hanne.kleinjan@hotmail.nl
+              hannekleinjan@hotmail.com
             </li>
             <li>
               <Phone />
-              +316 - 25 38 64 81
+              +316 - 12 34 56 78
             </li>
             <li>
               <Map />
-              Voorstraat 12, Den Ham (OV)
+              Overijssel
             </li>
           </ul>
 
